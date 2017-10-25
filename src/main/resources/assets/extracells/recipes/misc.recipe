@@ -37,12 +37,6 @@ shaped=
 	ae2:dense_energy_cell
 	-> ec:wirelessFluidTerminal
 
-shaped=
-	ae2:material.Wireless,
-	ec:partGasTerminal,
-	ae2:dense_energy_cell
-	-> ec:wirelessGasTerminal
-
 shapeless=
     ec:fluidCrafter ec:partFluidTerminal
     -> ec:fluidFiller
